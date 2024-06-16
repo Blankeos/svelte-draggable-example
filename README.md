@@ -1,4 +1,14 @@
-# create-svelte
+# Svelte Dragging Example
+
+https://github.com/Blankeos/svelte-draggable-example/assets/38070918/3c43332e-34c4-4ef8-8e57-41f919519ed9
+
+
+Implemented dragging in Svelte using Svelte Actions from scratch. Logic is encapsulated in the `use:draggable` directive.
+
+
+
+
+<!-- # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
@@ -35,4 +45,4 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment. -->
